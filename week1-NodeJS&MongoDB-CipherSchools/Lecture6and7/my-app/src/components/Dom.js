@@ -13,5 +13,5 @@ function Pizza(props) {
 }
 
 //function(Components), where to add on the DOM
-ReactDOM.render(<Pizza name="PizzaHut" />, document.getElementById("root"));
-ReactDOM.render(<Pizza name="Domino's" />, document.getElementById("root2"));
+ReactDOM.render(<Pizza name="Pizzahut" />, document.getElementById("root"));
+ReactDOM.render(<Pizza name="Domino" />, document.getElementById("root2"));
