@@ -1,0 +1,21 @@
+FRONTEND ---http---> BACKEND ---ftp---> DATABASE
+
+LAYERS
+business logic (top to bottom)
+serivce layer  
+data layer
+database
+MVC = model view controller architecture
+model: name: String, age: Number
+
+SOAP architecture - xml based
+REST architecture - json based - Representational state transfer
+
+HTTP methods: 
+get
+post
+put
+delete
+-- idempotent / non-i
+
+API - application program interface
